@@ -84,5 +84,5 @@ for i in range(len(kwadraten)):
     kwadraten[i] = kwadraten[i] ** 2
 
 
-print('kwadraten: ', kwadraten) # Het resultaat is: [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+print('kwadraten: ', kwadraten)  # Het resultaat is: [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 

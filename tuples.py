@@ -9,7 +9,8 @@
 tuple_een = (1, 2, 3)
 tuple_twee = (4, 5, 6)
 
-# je zal een nieuwe tuple variabele moeten declareren. De tuples die al gedeclareerd zijn kunnen namelijk niet worden aangepast
+# Je zal een nieuwe tuple variabele moeten declareren.
+# De tuples die al gedeclareerd zijn kunnen namelijk niet worden aangepast
 # (zoals een list kan worden aangepast met append, insert en remove).
 combined_tuple = tuple_een + tuple_twee
 print('combined tuple: ', combined_tuple)  # Het resultaat is: (1, 2, 3, 4, 5, 6
