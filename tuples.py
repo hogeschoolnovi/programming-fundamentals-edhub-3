@@ -1,5 +1,5 @@
 #####################
-# Voorbeeld opgave: #
+# Voorbeeld opdracht: #
 #####################
 
 # Declareer twee tuples met de namen ‘tuple_een’ en ‘tuple_twee’.
@@ -17,7 +17,7 @@ print('combined tuple: ', combined_tuple)  # Het resultaat is: (1, 2, 3, 4, 5, 6
 
 #####################
 
-# Opgave 1:
+# opdracht 1:
 
 # maak een tuple aan met de waarden 'b', 'c', 'a'
 # print de waarden van de tuple in de juiste volgorde (a, b, c)
@@ -27,7 +27,7 @@ print('combined tuple: ', combined_tuple)  # Het resultaat is: (1, 2, 3, 4, 5, 6
 
 #####################
 
-# Opgave 2:
+# opdracht 2:
 # Maak de lijst ‘getal_kwadraat_paar’ aan voor getallen 1 tot en met 5 waarin elk element bestaat uit een
 # tuple die het getal en het bijbehorende kwadraat bevat. Gebruik een list comprehension.
 
@@ -35,7 +35,7 @@ print('combined tuple: ', combined_tuple)  # Het resultaat is: (1, 2, 3, 4, 5, 6
 
 #####################
 
-# Opgave 3:
+# opdracht 3:
 # Maak een tuple genaamd tuple_count met de waarden 1, 2, 3, 4, 5
 # Zorg dat je een nieuwe tuple_countdown krijgt met de waarden 5, 4, 3, 2, 1
 # Maak gebruik van de reversed() functie
