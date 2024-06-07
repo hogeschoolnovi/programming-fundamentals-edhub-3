@@ -6,11 +6,8 @@ Deze repository bestaat uit meerdere opdrachten van oplopende moeilijkheidsgraad
 
 ## Project opzetten
 
-Je kunt deze opdracht maken door het project te downloaden als ZIP of met Git te clonen naar jouw eigen computer. 
-Heb jij Git niet geïnstalleerd en download je het project als ZIP-map? 
-Pak de ZIP-map eerst uit nadat deze is gedownload naar jouw Downloads-map. 
-Windows-gebruikers doen dit via deze stappen, Mac-gebruikers hoeven slechts op de map te dubbelklikken. 
-Daarna kun je het project openen in PyCharm (File > Open..).
+Je kunt deze opdracht maken door het project te downloaden als ZIP of met Git te clonen naar jouw eigen computer. Heb jij Git niet geïnstalleerd en download je het project als ZIP-map? Pak de ZIP-map eerst uit nadat deze is gedownload naar jouw Downloads-map. Windows-gebruikers doen dit via [deze stappen](https://www.youtube.com/watch?v=s4_WdMSaKRE), Mac-gebruikers hoeven slechts op de map te dubbelklikken. 
+Daarna kun je het project openen in PyCharm (_File > Open.._).
 
 
 ## Code runnen
@@ -18,8 +15,7 @@ Het runnen van je code kan op twee manieren:
 
 1. Je kan je code runnen door je Python bestand te selecteren in PyCharm en op de groene play knop te drukken.
 
-2. Of je kan de terminal openen en het volgende commando uitvoeren 
-(vervang `<naam-van-file.py>` met de naam van je Python bestand)
+2. Of je kan de terminal openen en het volgende commando uitvoeren (vervang `<naam-van-file.py>` met de naam van je Python bestand)
 
 ```shell
  python3 naam-van-file.py
