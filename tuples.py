@@ -33,8 +33,8 @@ print('tuple letters in alfabetische volgorde: ', tuple_letters[2], tuple_letter
 
 # ==========================================
 # Opdracht 2:
-# Maak de lijst ‘getal_kwadraat_paar’ aan voor getallen 1 tot en met 5 waarin elk element bestaat uit een
-# tuple die het getal en het bijbehorende kwadraat bevat. Gebruik een list comprehension.
+# Maak de lijst ‘getal_kwadraat_paar’ aan voor getallen 1 tot en met 5 waarin elk element bestaat uit een tuple die het getal en het bijbehorende kwadraat bevat.
+# Gebruik een list comprehension.
 #
 # Verwachte uitkomst: [(1, 1), (2, 4), (3, 9), (4, 16), (5, 25)]
 # ==========================================
@@ -49,7 +49,7 @@ print('getal kwadraat paar: ', getal_kwadraat_paar)  # Het resultaat is: [(1, 1)
 # Opdracht 3:
 # Maak een tuple genaamd tuple_count met de waarden 1, 2, 3, 4, 5
 # Draai nu de volgorde om. Zorg dat je een tuple krijgt met de waarden 5, 4, 3, 2, 1
-# Maak hierbij gebruik van de reversed() functie
+# Tip: Maak hierbij gebruik van de reversed() functie
 #
 # Verwachte uitkomst: (5, 4, 3, 2, 1)
 # ==========================================
